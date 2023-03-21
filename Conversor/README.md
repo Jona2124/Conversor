@@ -31,10 +31,3 @@ El programa te permitirá realizar múltiples conversiones antes de salir.
 
 Para ejecutar el programa, necesitarás tener instalado el entorno de ejecución de Java (JRE) en tu computadora. Puedes descargarlo desde la página oficial de Java.
 
-## Contribuciones
-
-Este es un proyecto de código abierto, por lo que cualquier persona es bienvenida a contribuir con mejoras y nuevas funcionalidades. Si deseas contribuir, simplemente crea un fork del proyecto, realiza tus cambios y envía un pull request.
-
-## Licencia
-
-Este programa está licenciado bajo la Licencia MIT. Puedes consultar el archivo LICENSE para más detalles.
